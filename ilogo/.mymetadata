@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ilogo"
+  id="myeclipse.1479046624627"
+  context-root="/ilogo"
+  j2ee-spec="1.4"
+  archive="ilogo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
